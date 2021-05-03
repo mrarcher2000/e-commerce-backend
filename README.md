@@ -62,7 +62,7 @@ Update Tags PUT /api/tags/:id (request body must include tag_name)
 
 Delete a tag DELETE /api/tags/:id 
 
-These requests can be made from your application or from an API testing application like Insomnia Core.
+These requests can be made from your application or from an API testing application like Insomnia Core. A quick walkthrough on how to run the server and make requests can be found at https://drive.google.com/file/d/1zomnIty3okyI9rlF-gXwpNkIqXc7U2lm/view. 
 
 ## Contributing
 
